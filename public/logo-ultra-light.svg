@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b88e;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0.15" />
+    </linearGradient>
+  </defs>
+
+  <!-- Ultra light cloud shape -->
+  <path d="M150 90c0-5.5-1.5-10.6-4-15-7-12-20-20-35-20-8 0-15.5 2.4-21.7 6.5C85 55 78 50 70 50c-16.5 0-30 13.5-30 30 0 1 0 2 .1 3C28 86 20 96 20 108c0 13.8 11.2 25 25 25h105c13.8 0 25-11.2 25-25 0-12-8-22-19-24.5 0-.8 0-1.7 0-2.5 0-5.5-1.8-10.6-5-15z"
+        fill="url(#cloudGradient)"
+        stroke="#14b88e"
+        stroke-width="1.5"
+        stroke-opacity="0.3"/>
+</svg>
